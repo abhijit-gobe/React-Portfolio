@@ -1,8 +1,41 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built using **React.js**, **Tailwind CSS**, and **Framer Motion** for animations. It showcases Projects, Experience, and Technoloogies in an interactive and visually appealing way.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [License](#license)
+
+## Features
+
+- Fully responsive design, works on all devices
+- Smooth animations using Framer Motion
+- Styled with modern utility-first CSS (Tailwind CSS)
+- Interactive sections for projects, experience, and contact information
+- Easy to modify and extend
+
+## Demo
+
+You can check out a live demo of the project [here](#). *(Add your live demo link here)*
+
+## Technologies Used
+
+- **React.js** – For building the UI components
+- **Tailwind CSS** – For styling and layout
+- **Framer Motion** – For adding animations and transitions
+- **Vite** – setup vite
+
+## Installation
+
+To get a local copy of this project up and running, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
