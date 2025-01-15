@@ -22,7 +22,7 @@ This is a personal portfolio website built using **React.js**, **Tailwind CSS**,
 
 ## Demo
 
-You can check out a live demo of the project [here](#). *(Add your live demo link here)*
+You can check out a live demo of the project [here](#). *https://portfolio-beige-pi-95.vercel.app/*
 
 ## Technologies Used
 
@@ -38,4 +38,4 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/abhijit-gobe/React-Portfolio.git
