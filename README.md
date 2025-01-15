@@ -22,7 +22,7 @@ This is a personal portfolio website built using **React.js**, **Tailwind CSS**,
 
 ## Demo
 
-You can check out a live demo of the project(#). *https://portfolio-beige-pi-95.vercel.app/*
+You can check out a live demo of the project. *https://portfolio-beige-pi-95.vercel.app/*
 
 ## Technologies Used
 
