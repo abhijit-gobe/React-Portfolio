@@ -8,9 +8,6 @@ This is a personal portfolio website built using **React.js**, **Tailwind CSS**,
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Features
 
